@@ -41,7 +41,7 @@
     </link>
 
     <!-- login bootstrap -->
-    <title>About us</title>
+    <title>Contact Us</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -90,15 +90,14 @@
 
                                 <a class="dropdown-item" href="rooms.php">Suite</a>
 
-                                
                             </div>
                         </li>
 
                         <li class="nav-item">
-                            <a class="nav-link active" href="about.php">About</a>
+                            <a class="nav-link " href="about.php">About</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="contact1.php">Contact</a>
+                            <a class="nav-link active" href="contact1.php">Contact</a>
                         </li>
 
                         <li class="nav-item cta">
@@ -116,14 +115,14 @@
     <!-- END header -->
 
     <section class="site-hero site-hero-innerpage overlay" data-stellar-background-ratio="0.5"
-        style="background-image: url(images/themist6.jpg);">
+        style="background-image: url(images/themist5.jpg);">
         <div class="container">
             <div class="row align-items-center site-hero-inner justify-content-center">
                 <div class="col-md-12 text-center">
 
                     <div class="mb-5 element-animate">
-                        <h1>About Luxury Hotel</h1>
-                        
+                        <h1>Contact Us</h1>
+
                     </div>
 
                 </div>
@@ -134,8 +133,8 @@
 
     <section class="site-section">
         <div class="container">
-        <center>
-            <div style="width: 280px;
+            <center>
+                <div style="width: 280px;
 	height: 74px;
 	border: solid 3px #393939;
 	font-size: 43.32px;
@@ -144,42 +143,73 @@
 	line-height: 68px;
   text-align: center;
   margin-bottom: 50px">
-                The Palace
-            </div>
-        </center>
-            <div class="row align-items-center">
-                <div class="col-md-4">
-                    <div class="heading-wrap  element-animate">
-                        
-                        <h4 class="sub-heading">Stay with our luxury rooms</h4>
-                        <h2 class="heading">Our Story</h2>
-                        <p class="">Across the vast land along the route to Zhengzhou, the capital of Henan in China,
-                            and situated some 100 kilometers away, rests the landscape of Xuchang, a town that seems to
-                            be forever obscured by cloudy skies, dry soil and the gray debris of burning coal, the
-                            primary source of energy and warmth in the area of perpetual winter. The town’s almost
-                            complete lack of tourist attractions is notable and when the team of architects from
-                            Department of Architecture first arrived in Xuchang, realization set in during the site
-                            inspection that, after having agreed to take on the task for a Chinese developer of turning
-                            the land into a new destination hot spring hotel, right here, against all the odds, they
-                            were practically in the middle of nowhere.</p>
-
-                        <p>The ‘nothingness’ of the site served as a catalyst for Department of Architecture who later
-                            realized that ‘color’ was the missing element in the town’s somber environment. The idea led
-                            to the design of the user’s sensorial experience through the way people interact with
-                            colors. Amata Luphaiboon of Department of Architecture told art4d that they were inspired by
-                            the birth of color movies in the early 20th Century when color films had not yet been
-                            introduced to filmmaking. The coloring technique was done by hand, frame by frame, with the
-                            black and white film being dyed with layers of colors to create coloring effects on the
-                            projected moving images. The light was projected through the air, filtered, intermixed and
-                            superimposed with colors into moving visuals.</p>
-
-                        
-
-                    </div>
+                    The Palace
+                </div>
+            </center>
+            <div class="row">
+                <div class="col-md-6">
+                    <h2 class="mb-5">Palace hotel</h2>
+                    <ul>
+                        <li>11 หมู่ 12 Malaiman Rd, Tambon Kamphaeng Saen, Amphoe Kamphaeng Saen, Chang Wat Nakhon
+                            Pathom 73140</li>
+                        <li>+66 923327160</li>
+                        <li>psomdul@gmai;.com</li>
+                    </ul>
                 </div>
                 <div class="col-md-1"></div>
-                <div class="col-md-7">
-                    <img src="images/f_img_1.png" alt="Image placeholder" class="img-md-fluid">
+                <div class="col-md-5">
+                    <h3 class="mb-5">Google Map</h3>
+                    <a
+                        href="https://www.google.com/maps/place/%E0%B8%AB%E0%B8%AD%E0%B8%9E%E0%B8%B1%E0%B8%81%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B8%97%E0%B8%A7%E0%B8%B5%E0%B8%99%E0%B8%B8%E0%B8%8A/@14.0211103,99.9943222,15z/data=!4m5!3m4!1s0x0:0xfe4d09ea5cb987b0!8m2!3d14.0211103!4d99.9943222">
+                        <div class="container123555">
+                            <img src="images/Location.JPG" alt="Avatar" class="image123555" style="width:100%">
+                            <div class="middle123555">
+                                <div class="text123555">กดคลิกที่รูป เพื่อดูแผนที่</div>
+                            </div>
+                        </div>
+                    </a>
+                    <style>
+                    .container12355 {
+                        position: relative;
+                        width: 50%;
+                    }
+
+                    .image123555 {
+                        opacity: 1;
+                        display: block;
+                        width: 100%;
+                        height: auto;
+                        transition: .5s ease;
+                        backface-visibility: hidden;
+                    }
+
+                    .middle123555 {
+                        transition: .5s ease;
+                        opacity: 0;
+                        position: absolute;
+                        top: 50%;
+                        left: 50%;
+                        transform: translate(-50%, -50%);
+                        -ms-transform: translate(-50%, -50%);
+                        text-align: center;
+                    }
+
+                    .container123555:hover .image123555 {
+                        opacity: 0.3;
+                    }
+
+                    .container123555:hover .middle123555 {
+                        opacity: 1;
+                    }
+
+                    .text123555 {
+
+                        color: blue;
+                        font-size: 30px;
+                        padding: 16px 32px;
+                    }
+                    </style>
+
                 </div>
             </div>
         </div>
@@ -190,53 +220,23 @@
 
 
 
-    
-    <!-- END section -->
-
     <section class="section-cover" data-stellar-background-ratio="0.5"
-    style="background-image: url(images/themist7.jpg);">
-    <div class="container">
-      <div class="row justify-content-center align-items-center intro">
-      <div class="col-md-9 text-center element-animate">
+        style="background-image: url(images/themist7.jpg);">
+        <div class="container">
+            <div class="row justify-content-center align-items-center intro">
+                <div class="col-md-9 text-center element-animate">
                     <h1 style="color: white; background-color:rgba(0, 0, 0, 0.5);">Relax and Enjoy your Holiday</h1>
 
                 </div>
-      </div>
-    </div>
-  </section>
+            </div>
+        </div>
+    </section>
     <!-- END section -->
 
     <footer class="site-footer">
-        <div class="container">
-            <div class="row mb-5">
-                <div class="col-md-4">
-                    <h3>Phone Support</h3>
-                    <p>24/7 Call us now.</p>
-                    <p class="lead"><a href="tel://">+ 1 332 3093 323</a></p>
-                </div>
-                <div class="col-md-4">
-                    <h3>Connect With Us</h3>
-                    <p>We are socialized. Follow us</p>
-                    <p>
-                        <a href="#" class="pl-0 p-3"><span class="fa fa-facebook"></span></a>
-                        <a href="#" class="p-3"><span class="fa fa-twitter"></span></a>
-                        <a href="#" class="p-3"><span class="fa fa-instagram"></span></a>
-                        <a href="#" class="p-3"><span class="fa fa-vimeo"></span></a>
-                        <a href="#" class="p-3"><span class="fa fa-youtube-play"></span></a>
-                    </p>
-                </div>
-                <div class="col-md-4">
-                    <h3>Connect With Us</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maxime, odio.</p>
-                    <form action="#" class="subscribe">
-                        <div class="form-group">
-                            <button type="submit"><span class="ion-ios-arrow-thin-right"></span></button>
-                            <input type="email" class="form-control" placeholder="Enter email">
-                        </div>
 
-                    </form>
-                </div>
-            </div>
+        <div class="container">
+            =
             <div class="row justify-content-center">
                 <div class="col-md-7 text-center">
                     &copy;
