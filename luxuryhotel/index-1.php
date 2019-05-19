@@ -59,17 +59,17 @@
                         </li>
 
                         <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="rooms1.php" id="dropdown04" data-toggle="dropdown"
+                            <a class="nav-link dropdown-toggle" href="rooms.php" id="dropdown04" data-toggle="dropdown"
                                 aria-haspopup="true" aria-expanded="false">Rooms</a>
 
                             <div class="dropdown-menu" aria-labelledby="dropdown04">
-                                <a class="dropdown-item" href="rooms1.php">Standard Room</a>
+                                <a class="dropdown-item" href="rooms.php">Standard Room</a>
 
-                                <a class="dropdown-item" href="rooms1.php">Superior Room</a>
+                                <a class="dropdown-item" href="rooms.php">Superior Room</a>
 
-                                <a class="dropdown-item" href="rooms1.php">Deluxe Room</a>
+                                <a class="dropdown-item" href="rooms.php">Deluxe Room</a>
 
-                                <a class="dropdown-item" href="rooms1.php">Suite</a>
+                                <a class="dropdown-item" href="rooms.php">Suite</a>
 
                                 
                             </div>
@@ -78,7 +78,7 @@
 
 
                         <li class="nav-item">
-                            <a class="nav-link" href="about1.php">About</a>
+                            <a class="nav-link" href="about.php">About</a>
                         </li>
 
                         <li class="nav-item">
@@ -125,7 +125,7 @@
                         </p>
 
                         <p>
-                            <a href="about1.php" class="btn btn-primary btn-sm">More About Us</a>
+                            <a href="about.php" class="btn btn-primary btn-sm">More About Us</a>
                         </p>
                     </div>
                 </div>
