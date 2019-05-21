@@ -301,7 +301,7 @@
                     console.log('297');
                     Swal.fire({
                         type: 'success',
-                        title: 'ยืนยันการชำระเงินสำเร็จ',
+                        title: 'ขอบคุณสำหรับความคิดเห็น',
                         html: '<a href="index-1.php">กดที่นี้เพื่อกลับไปหน้าหลักของเว็ปไซต์</a>',
                         showConfirmButton: false,
                     })
